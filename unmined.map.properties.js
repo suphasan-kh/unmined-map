@@ -8,7 +8,7 @@ var UnminedMapProperties = {
     minRegionZ: -11,
     maxRegionX: 36,
     maxRegionZ: 4,
-    worldName: "Flantyraft6884 - Viman",
+    worldName: "Flantyraft6884 - Copy",
     background: "",
     markers: new Array(),
     enableGrid: true,
